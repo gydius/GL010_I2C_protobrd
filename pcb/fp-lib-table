@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "SM04B-SRSS-TB(LF)(SN)")(type KiCad)(uri "${KIPRJMOD}/components/SM04B-SRSS-TB(LFSN)/Kicad/SM04B-SRSS-TB(LF)(SN).pretty")(options "")(descr ""))
+  (lib (name MeshNodeLogo)(type KiCad)(uri ${KIPRJMOD}/components/MeshNodeLogo.pretty)(options "")(descr ""))
+  (lib (name MoreMoney)(type KiCad)(uri ${KIPRJMOD}/components/MoreMoney.pretty)(options "")(descr ""))
+)
